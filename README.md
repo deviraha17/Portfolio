@@ -1,4 +1,4 @@
-# John Doe
+# Devishree S Raha
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
